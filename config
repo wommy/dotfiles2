@@ -173,3 +173,6 @@ bindsym F7 exec brightness up
 bindsym F8 exec amixer set Master toggle
 bindsym F9 exec amixer set Master 5%-
 bindsym F10 exec amixer set Master 5%+
+
+bindsym $mod+grave scratchpad show
+bindsym $mod+Shift+grave move scratchpad
