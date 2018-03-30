@@ -1,0 +1,117 @@
+MY PROJECT -*- mode: org -*-
+
+* TODO home
+  float tank with mom https://www.motorcityfloat.com/pricing
+  dig thru dad emails
+* TODO AGENDA
+  functional
+    http://haskellbook.com
+    humble bundle
+    reasonML http://reasonmlhub.com/exploring-reasonml/
+  wesbos
+* TODO business
+  email that dude
+    github/resume
+  rebrand
+    email
+      own server
+        D ryzen build
+      company
+        chrisWare
+    twitter
+    business_card
+* css 
+  frameworks
+    http://tachyons.io
+    budparr
+      tailwindcss - https://tailwindcss.com/docs/configuration
+       submodule - https://www.atlassian.com/blog/git/git-submodules-workflows-tips
+    https://bulma.io
+    https://atomiks.github.io/30-seconds-of-css/
+    https://cssgradient.io
+    https://v-fonts.com
+* media
+  watch
+    series
+      https://stevenuniver.se
+    news
+      https://d.tube/#!/v/lukewearechange/r221zfuw
+  read
+    work
+      https://blog.figma.com/component-architecture-in-figma-f16ae9cc4481
+      https://thepowerofserverless.info/
+  music
+    freestyle
+      history http://music.hyperreal.org/library/history_of_freestyle.html
+      http://daily.redbullmusicacademy.com/specials/freestyle-oral-history/#
+      http://mixmag.net/feature/the-20-best-pre-00s-electro-tracks
+      http://www.laweekly.com/music/10-freestyle-jams-for-people-who-know-shit-about-80s-freestyle-music-8840009#
+
+    
+
+blog-post
+  emacs print blog post
+    somehow rig a mode
+      datetime
+      topic_list 
+        webdev
+	  jeff https://medium.com/@jescalan/9f51f0fe2dc0
+
+free websites
+  advertise
+    ism depaul
+    reddit
+      ? design
+      ui components
+    bumble business
+
+* SFFpc
+  case 3D_print contact
+    -starfireTechnologies https://www.youtube.com/user/StarfireMX/discussion
+    -luke
+  psu - laptop
+  cooler - liquid
+  ram - 2x4gig
+  board TODO pcpartpicker
+  2400g
+  m.2
+  upgrade
+    1030
+
+* TODO buy
+  boar bristle brush
+    amazon spornette
+      https://www.amazon.com/s/ref=nb_sb_ss_i_2_5?url=search-alias%3Dbeauty&field-keywords=boar+bristle+brush&sprefix=boar+%2Cbeauty%2C172&crid=1XKVR8N4GFISD
+      https://www.amazon.com/Spornettes-New-Classic-Cushion-4-Ounce/dp/B003K2AEUQ/ref=sr_1_21_a_it?ie=UTF8&qid=1522114499&sr=8-21&keywords=spornette+boar+bristle+bristle
+    costco
+      stick blender
+  EVENTS
+    mcchris
+      chi http://www.lh-st.com/Shows/04-25-2018+MC+Chris
+      gr https://www.ticketweb.com/event/mc-chris-bitforce-the-pyramid-scheme-tickets/8137815?pl=pyramid
+      det https://www.ticketfly.com/event/1649451
+    code
+      budparr nyc https://www.eventbrite.com/e/buzzjs-31-nyc-javascript-conference-workshops-tickets-41295988413
+      https://www.eventbrite.com/e/detroit-day-of-functional-tickets-42963485943
+    jordan_peterson https://concerts1.livenation.com/event/0800544F2AD6651B?crosssite=TM_US:2467707:65587
+  supplements
+    l-citrulline > l-arginine https://www.reddit.com/r/Supplements/comments/85us9x/anyone_ever_try_the_holy_grail/dw0jf4n/
+* food
+  slow_cooker
+    https://www.reddit.com/r/slowcooking/comments/7xpbnx/this_feijoada_is_the_best_meal_you_can_make_in_a/
+* books
+  pdf
+    cody_wilson social_implications_of_technology https://www.nyu.edu/projects/nissenbaum/papers/Socialimplicationsoftechnology.pdf
+* podcasts
+  tangentially_speaking chris_ryan podcast https://chrisryanphd.com/tangentially-speaking/
+    past https://chrisryanphd.com/tangentially-speaking/2015/10/18/148-neil-strauss-the-truth
+    Past https://chrisryanphd.com/tangentially-speaking/2013/4/19/1-neil-strauss
+  youtube zizek
+    past zizek on this week bbc 2018/03/08 https://www.youtube.com/watch?v=rJ9HGqPqgV0
+    future zizek - like a thief in the night a question of manners 2018 march https://www.youtube.com/watch?v=0MWO-hZfZDQ
+  mixed mental arts - lawrence lessig https://player.fm/series/the-bryan-callen-show/ep190-super-tuesday-lawrence-lessig
+* work
+  website
+    wommy.io
+      spike
+      tailwindcss
