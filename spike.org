@@ -1,0 +1,100 @@
+create new
+  site
+    choose
+      super template
+      components <-> lib
+      design_system
+        defaults
+          font.woff
+          font-sizes
+          brand-colors
+          line height
+        mobile
+        grid / flex
+        component groups
+          lists - boxes - containers
+            hollow
+              div
+              ol
+          items
+            p
+            li
+  page OR post
+    choose template
+    json
+      date
+      title
+      subtitle
+      category
+      img
+      link
+      content
+      markdown
+  build system
+    template
+      mobile
+      grid / flex
+    theme
+      colors
+      fonts
+      font sizes
+      line spacing
+    component
+      groups
+
+super template! :plug in:
+    nav
+      effects
+    post
+      json
+    page
+      components
+          list <- container
+          list item display <- element
+            component-group
+
+        index of :ex: bloglist
+          title date preview bullet
+
+        things spaced horizontally
+          units 3 4 5
+
+        4 things in a square
+          each composed of
+            img title subtitle
+
+        img + text
+          left and right
+
+        hero image
+
+        video
+          from sources
+            youtube
+            vimeo
+
+        array
+
+        factory
+          from this list
+          fill this template
+
+
+
+
+!doctype
+head
+  defaults
+
+  title
+
+  css
+    inlined
+      variables + baseline
+    APPEND
+      page
+body
+  nav
+  {content}
+  footer
+  script
