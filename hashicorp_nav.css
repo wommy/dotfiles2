@@ -1,0 +1,33 @@
+nav
+  logo
+  @desktop, icon{:hidden}, nav{:active}
+    link
+      .outlined
+      plain
+        text
+        :hover{:active:dim}
+        extends fancy
+          append text:after{dropdown}
+          append :hover{subNav:active}
+            subLinks
+              text: title, (description)
+              background-color{:hover}
+              extends :fancy
+                @brand_color
+                prepend keyword, @brand_color
+                append title: emphasis
+                background-color{:hover}, @brand_color
+            content
+              background: image, color
+              title
+              text
+              .outlined
+  @mobile, icon:toggle{open_close, nav:active}
+      link
+        text, icon, border-bottom
+        extends fancy {subNav:active}
+          breadcrumb
+          header
+          link, (emphasis)
+
+      
