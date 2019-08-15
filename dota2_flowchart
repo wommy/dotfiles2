@@ -1,0 +1,35 @@
+watch the minimap
+
+is it /5mins
+? bounties + stack
+: is a core in trouble
+	? tp to help them
+	: is there free farm
+		? walk to it
+		: pull / stack / farm / gank
+
+:	can the offlaner get a kill
+	?	pressure their safe lane
+	:	go help safelane by making pull / stacks / gank mid
+
+:	do i need level 2 to kill / is lane too far pushed
+	? pull camps to kill wave get exp and pull lane back
+	: does my carry sacrafice a creep wave by going for this kill?
+		? go kill their offlaner
+		: pull stack farm gank
+
+:do i have levels / does my mid have levels?
+	? pressure their mid
+	: go help safelane => pulls / stacks
+
+does a core need me
+	? tp
+	: can i split
+defensive
+	pull
+	stack
+aggressive
+	ward
+	gank
+	are you going to feed
+		split
