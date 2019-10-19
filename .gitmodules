@@ -1,3 +1,0 @@
-[submodule "vim/pack/plug/start/nerdtree"]
-	path = vim/pack/plug/start/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
