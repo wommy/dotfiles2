@@ -1,0 +1,973 @@
+{
+	"folder_history":
+	[
+		"/home/froggie92/project_current/blog_cms/technomad_jekyll",
+		"/home/froggie92/project_current/annabrab",
+		"/home/froggie92/project_current/resume",
+		"/home/froggie92/project_current/annabrabant",
+		"/home/froggie92/project_current/blog_cms/technomad_11ty",
+		"/home/froggie92/project_current/blog_cms/technomad_cms",
+		"/home/froggie92/project_current/hempwoodcbd-shopify_theme",
+		"/home/froggie92/current_project/freedomtoons_aws",
+		"/home/froggie92/.ssh",
+		"/home/froggie92/technomad_11ty",
+		"/home/froggie92/wommy-technomad_11ty",
+		"/home/froggie92/websites/technomad1",
+		"/home/froggie92/websites/technomad",
+		"/home/froggie92/resume",
+		"/home/froggie92/websites/jekyll",
+		"/home/froggie92/websites/technomad/technomad_olde",
+		"/home/froggie92",
+		"/home/froggie92/MRM_McCann",
+		"/home/froggie92/mrm_mccann",
+		"/home/froggie92/MRM_McCaann-gulp_handlebars_jquery_sass",
+		"/home/froggie92/websites/technomad/imperfect/technomad",
+		"/home/froggie92/websites/technomad/jekyll",
+		"/home/froggie92/websites/technomad/imperfect/olde",
+		"/home/froggie92/websites/technomad/pug",
+		"/home/froggie92/websites/technomad/technomad",
+		"/home/froggie92/websites/wommy/technomad_11ty",
+		"/home/froggie92/jekyll_new",
+		"/home/froggie92/websites/wommy/-www",
+		"/home/froggie92/_websites/_freedomtoons/_jekyll",
+		"/home/froggie92/wommy_jekyll",
+		"/home/froggie92/freedomtoons_jekyll",
+		"/home/froggie92/freedomtoons_gatsby",
+		"/home/froggie92/gems/gems/minima-2.5.0",
+		"/home/froggie92/technomad_jekyll",
+		"/home/froggie92/technomad_gatsby",
+		"/home/froggie92/technomad_ejs",
+		"/home/froggie92/technomad_ejs_11ty",
+		"/home/froggie92/freedomtoons-technomad_11ty",
+		"/home/froggie92/freedomtoons",
+		"/home/froggie92/cutepanda",
+		"/home/froggie92/.config/sublime-text-3",
+		"/home/froggie92/rd_2019",
+		"/home/froggie92/thc",
+		"/home/froggie92/wommy-www",
+		"/home/froggie92/technomad_next",
+		"/home/froggie92/react-tutorial",
+		"/home/froggie92/technomad_react",
+		"/home/froggie92/technomad/lit-html",
+		"/home/froggie92/farmlog",
+		"/home/froggie92/technomad_pug",
+		"/home/froggie92/rd",
+		"/home/froggie92/technomad",
+		"/home/froggie92/wommy-www/_design",
+		"/home/froggie92/wommycom",
+		"/home/froggie92/phtml",
+		"/home/froggie92/jeffwebsite/2",
+		"/home/froggie92/jeffwebsite",
+		"/home/froggie92/lulu",
+		"/home/froggie92/lulu/design",
+		"/home/froggie92/lulus",
+		"/home/froggie92/nextmdx",
+		"/home/froggie92/learnnextjs-demo"
+	],
+	"last_version": 3211,
+	"last_window_id": 212,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"align",
+						"align-self\tproperty"
+					],
+					[
+						"text",
+						"text-decoration\tproperty"
+					],
+					[
+						"mar",
+						"margin-bottom\tproperty"
+					],
+					[
+						"padd",
+						"padding\tproperty"
+					],
+					[
+						"pad",
+						"padding-top\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"box",
+						"box-sizing\tproperty"
+					],
+					[
+						"flex-r",
+						"flex-direction\tproperty"
+					],
+					[
+						"border",
+						"border-bottom\tproperty"
+					],
+					[
+						"space",
+						"space-between\tjustify-content"
+					],
+					[
+						"padding",
+						"padding-left\tproperty"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"font-s",
+						"font-size\tproperty"
+					],
+					[
+						"b",
+						"background\tproperty"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"in",
+						"inline-block\tdisplay"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"backg",
+						"background-color\tproperty"
+					],
+					[
+						"render",
+						"renderMarkdown"
+					],
+					[
+						"min",
+						"min-width\tproperty"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"livero",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"termin",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 185.0,
+				"history":
+				[
+					"clear",
+					"terminal",
+					"ls",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/froggie92/project_current/annabrab/work/error-i.md",
+				"/home/froggie92/project_current/annabrab/press.html",
+				"/home/froggie92/project_current/annabrab/index.html",
+				"/home/froggie92/project_current/annabrab/work/error-ii.md",
+				"/home/froggie92/project_current/annabrab/_includes/_thicker.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/header-thick.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/__annabrabant.css",
+				"/home/froggie92/project_current/annabrab/work/untitled-1.md",
+				"/home/froggie92/project_current/annabrab/work/barely_sipped.md",
+				"/home/froggie92/project_current/annabrab/work/untitled-2.md",
+				"/home/froggie92/project_current/annabrab/work/swarm.md",
+				"/home/froggie92/project_current/annabrab/work/rivers.md",
+				"/home/froggie92/project_current/annabrab/work/markings.md",
+				"/home/froggie92/project_current/annabrab/work/idk.md",
+				"/home/froggie92/project_current/annabrab/work/flu.md",
+				"/home/froggie92/project_current/annabrab/work/data.md",
+				"/home/froggie92/project_current/annabrab/_includes/nav-thick.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/footer.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_template.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_skinny.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_base.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_page.liquid",
+				"/home/froggie92/project_current/annabrab/cv.html",
+				"/home/froggie92/project_current/annabrab/contact.html",
+				"/home/froggie92/project_current/annabrab/_includes/__base.css",
+				"/home/froggie92/project_current/annabrab/work/barelyslipped.md",
+				"/home/froggie92/project_current/annabrab/work/work.json",
+				"/home/froggie92/project_current/annabrab/archive.html",
+				"/home/froggie92/project_current/annabrab/.eleventy.js",
+				"/home/froggie92/project_current/annabrab/_static/config.yml",
+				"/home/froggie92/project_current/annabrab/work/barely-slipped.md",
+				"/home/froggie92/project_current/annabrab/archive1.html",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/cognition.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/fluid.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/theUniverseIsExpanding.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/untitled1.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/untitled2.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/wading.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/1.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/2.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/3.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/4.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/5.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/6.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/7.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/undaPressha.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/1.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/2.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/3.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/4.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/untitled.json",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/monoprint.json",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/undergrad.json",
+				"/home/froggie92/project_current/annabrab/archive/archive.json",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-1.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-2.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-3.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-4.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-cognition.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-fluid.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-theUniverseIsExpanding.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-undaPressha.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-untitled1.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-untitled2.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-wading.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-1.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-2.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-3.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-4.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-5.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-6.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-7.md",
+				"/home/froggie92/project_current/annabrab/work/barelySlipped.md",
+				"/home/froggie92/project_current/annabrab/archives.html",
+				"/home/froggie92/project_current/annabrab/_includes/carousel.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_work.liquid",
+				"/home/froggie92/project_current/annabrab/_data/archive.json",
+				"/home/froggie92/project_current/annabrab/_data/cv.json",
+				"/home/froggie92/project_current/annabrab/_data/work.json",
+				"/home/froggie92/project_current/annabrab/work/barely-sipped.md",
+				"/home/froggie92/project_current/annabrab/package.json",
+				"/home/froggie92/project_current/annabrab/cv.md",
+				"/home/froggie92/project_current/annabrab/ferndale_library-artist_exhibition.md",
+				"/home/froggie92/project_current/annabrab/views/admin.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/__annabrabant.css",
+				"/home/froggie92/project_current/annabrab/views/_includes/_template.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/form.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/_template.liquid",
+				"/home/froggie92/project_current/annabrab/views/_includes/_page.liquid",
+				"/home/froggie92/project_current/annabrab/views/_includes/_post.liquid",
+				"/home/froggie92/project_current/annabrab/views/archive.md",
+				"/home/froggie92/project_current/annabrab/views/contact.html",
+				"/home/froggie92/project_current/annabrab/views/cv.md",
+				"/home/froggie92/project_current/annabrab/views/index.md",
+				"/home/froggie92/project_current/annabrab/views/press.md",
+				"/home/froggie92/project_current/annabrab/views/press/ferndale_library-artist_exhibition.md",
+				"/home/froggie92/project_current/resume/_data/base.json",
+				"/home/froggie92/project_current/resume/_data/skills.json",
+				"/home/froggie92/project_current/resume/_data/education.json",
+				"/home/froggie92/project_current/resume/index.pug",
+				"/home/froggie92/project_current/resume/_data/meetups.json",
+				"/home/froggie92/project_current/resume/_data/data.json",
+				"/home/froggie92/project_current/resume/_includes/_template.pug",
+				"/home/froggie92/project_current/annabrabant/views/_includes/__annabrabant.css",
+				"/home/froggie92/project_current/annabrabant/views/_includes/_template.liquid",
+				"/home/froggie92/project_current/annabrabant/views/_includes/_header.liquid",
+				"/home/froggie92/project_current/annabrabant/views/contact/index.html",
+				"/home/froggie92/project_current/annabrabant/views/press/ferndale_library-artist_exhibition.md",
+				"/home/froggie92/project_current/annabrabant/views/press/index.html",
+				"/home/froggie92/project_current/annabrabant/views/archive/index.md",
+				"/home/froggie92/project_current/annabrabant/views/cv/index.md",
+				"/home/froggie92/project_current/annabrabant/views/press/index.md",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/_header.liquid",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/index.md",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/_template.liquid",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/__critical.css",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/template.liquid",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/_template.pug",
+				"/home/froggie92/project_current/blog_cms/technomad_cms/views/index.md",
+				"/home/froggie92/project_current/blog_cms/technomad_cms/views/_includes/_template.html",
+				"/home/froggie92/project_current/blog_cms/technomad_cms/views/index.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/__critical.css",
+				"/home/froggie92/project_current/annabrab/views/_includes/nav.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/nav.pug",
+				"/home/froggie92/project_current/annabrab/views/_includes/_template.pug",
+				"/home/froggie92/current_project/freedomtoons_aws/index.html",
+				"/home/froggie92/current_project/freedomtoons_aws/src/leftnav/view/leftnav.html",
+				"/home/froggie92/current_project/freedomtoons_aws/src/toons/Toons.js"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 172.0
+			},
+			"output.exec":
+			{
+				"height": 150.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 231.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"align",
+						"align-self\tproperty"
+					],
+					[
+						"text",
+						"text-decoration\tproperty"
+					],
+					[
+						"mar",
+						"margin-bottom\tproperty"
+					],
+					[
+						"padd",
+						"padding\tproperty"
+					],
+					[
+						"pad",
+						"padding-top\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"box",
+						"box-sizing\tproperty"
+					],
+					[
+						"flex-r",
+						"flex-direction\tproperty"
+					],
+					[
+						"border",
+						"border-bottom\tproperty"
+					],
+					[
+						"space",
+						"space-between\tjustify-content"
+					],
+					[
+						"padding",
+						"padding-left\tproperty"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"font-s",
+						"font-size\tproperty"
+					],
+					[
+						"b",
+						"background\tproperty"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"in",
+						"inline-block\tdisplay"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"backg",
+						"background-color\tproperty"
+					],
+					[
+						"render",
+						"renderMarkdown"
+					],
+					[
+						"min",
+						"min-width\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"livero",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"termin",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 185.0,
+				"history":
+				[
+					"clear",
+					"terminal",
+					"ls",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/froggie92/project_current/blog_cms/technomad_jekyll"
+			],
+			"file_history":
+			[
+				"/home/froggie92/project_current/annabrab/work/error-i.md",
+				"/home/froggie92/project_current/annabrab/press.html",
+				"/home/froggie92/project_current/annabrab/index.html",
+				"/home/froggie92/project_current/annabrab/work/error-ii.md",
+				"/home/froggie92/project_current/annabrab/_includes/_thicker.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/header-thick.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/__annabrabant.css",
+				"/home/froggie92/project_current/annabrab/work/untitled-1.md",
+				"/home/froggie92/project_current/annabrab/work/barely_sipped.md",
+				"/home/froggie92/project_current/annabrab/work/untitled-2.md",
+				"/home/froggie92/project_current/annabrab/work/swarm.md",
+				"/home/froggie92/project_current/annabrab/work/rivers.md",
+				"/home/froggie92/project_current/annabrab/work/markings.md",
+				"/home/froggie92/project_current/annabrab/work/idk.md",
+				"/home/froggie92/project_current/annabrab/work/flu.md",
+				"/home/froggie92/project_current/annabrab/work/data.md",
+				"/home/froggie92/project_current/annabrab/_includes/nav-thick.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/footer.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_template.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_skinny.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_base.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_page.liquid",
+				"/home/froggie92/project_current/annabrab/cv.html",
+				"/home/froggie92/project_current/annabrab/contact.html",
+				"/home/froggie92/project_current/annabrab/_includes/__base.css",
+				"/home/froggie92/project_current/annabrab/work/barelyslipped.md",
+				"/home/froggie92/project_current/annabrab/work/work.json",
+				"/home/froggie92/project_current/annabrab/archive.html",
+				"/home/froggie92/project_current/annabrab/.eleventy.js",
+				"/home/froggie92/project_current/annabrab/_static/config.yml",
+				"/home/froggie92/project_current/annabrab/work/barely-slipped.md",
+				"/home/froggie92/project_current/annabrab/archive1.html",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/cognition.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/fluid.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/theUniverseIsExpanding.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/untitled1.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/untitled2.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/wading.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/1.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/2.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/3.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/4.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/5.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/6.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/7.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/undaPressha.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/1.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/2.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/3.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/4.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled/untitled.json",
+				"/home/froggie92/project_current/annabrab/archive/monoprint/monoprint.json",
+				"/home/froggie92/project_current/annabrab/archive/undergrad/undergrad.json",
+				"/home/froggie92/project_current/annabrab/archive/archive.json",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-1.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-2.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-3.md",
+				"/home/froggie92/project_current/annabrab/archive/monoprint-4.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-cognition.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-fluid.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-theUniverseIsExpanding.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-undaPressha.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-untitled1.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-untitled2.md",
+				"/home/froggie92/project_current/annabrab/archive/undergrad-wading.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-1.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-2.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-3.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-4.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-5.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-6.md",
+				"/home/froggie92/project_current/annabrab/archive/untitled-7.md",
+				"/home/froggie92/project_current/annabrab/work/barelySlipped.md",
+				"/home/froggie92/project_current/annabrab/archives.html",
+				"/home/froggie92/project_current/annabrab/_includes/carousel.liquid",
+				"/home/froggie92/project_current/annabrab/_includes/_work.liquid",
+				"/home/froggie92/project_current/annabrab/_data/archive.json",
+				"/home/froggie92/project_current/annabrab/_data/cv.json",
+				"/home/froggie92/project_current/annabrab/_data/work.json",
+				"/home/froggie92/project_current/annabrab/work/barely-sipped.md",
+				"/home/froggie92/project_current/annabrab/package.json",
+				"/home/froggie92/project_current/annabrab/cv.md",
+				"/home/froggie92/project_current/annabrab/ferndale_library-artist_exhibition.md",
+				"/home/froggie92/project_current/annabrab/views/admin.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/__annabrabant.css",
+				"/home/froggie92/project_current/annabrab/views/_includes/_template.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/form.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/_template.liquid",
+				"/home/froggie92/project_current/annabrab/views/_includes/_page.liquid",
+				"/home/froggie92/project_current/annabrab/views/_includes/_post.liquid",
+				"/home/froggie92/project_current/annabrab/views/archive.md",
+				"/home/froggie92/project_current/annabrab/views/contact.html",
+				"/home/froggie92/project_current/annabrab/views/cv.md",
+				"/home/froggie92/project_current/annabrab/views/index.md",
+				"/home/froggie92/project_current/annabrab/views/press.md",
+				"/home/froggie92/project_current/annabrab/views/press/ferndale_library-artist_exhibition.md",
+				"/home/froggie92/project_current/resume/_data/base.json",
+				"/home/froggie92/project_current/resume/_data/skills.json",
+				"/home/froggie92/project_current/resume/_data/education.json",
+				"/home/froggie92/project_current/resume/index.pug",
+				"/home/froggie92/project_current/resume/_data/meetups.json",
+				"/home/froggie92/project_current/resume/_data/data.json",
+				"/home/froggie92/project_current/resume/_includes/_template.pug",
+				"/home/froggie92/project_current/annabrabant/views/_includes/__annabrabant.css",
+				"/home/froggie92/project_current/annabrabant/views/_includes/_template.liquid",
+				"/home/froggie92/project_current/annabrabant/views/_includes/_header.liquid",
+				"/home/froggie92/project_current/annabrabant/views/contact/index.html",
+				"/home/froggie92/project_current/annabrabant/views/press/ferndale_library-artist_exhibition.md",
+				"/home/froggie92/project_current/annabrabant/views/press/index.html",
+				"/home/froggie92/project_current/annabrabant/views/archive/index.md",
+				"/home/froggie92/project_current/annabrabant/views/cv/index.md",
+				"/home/froggie92/project_current/annabrabant/views/press/index.md",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/_header.liquid",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/index.md",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/_template.liquid",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/__critical.css",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/template.liquid",
+				"/home/froggie92/project_current/blog_cms/technomad_11ty/views/_includes/_template.pug",
+				"/home/froggie92/project_current/blog_cms/technomad_cms/views/index.md",
+				"/home/froggie92/project_current/blog_cms/technomad_cms/views/_includes/_template.html",
+				"/home/froggie92/project_current/blog_cms/technomad_cms/views/index.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/__critical.css",
+				"/home/froggie92/project_current/annabrab/views/_includes/nav.html",
+				"/home/froggie92/project_current/annabrab/views/_includes/nav.pug",
+				"/home/froggie92/project_current/annabrab/views/_includes/_template.pug",
+				"/home/froggie92/current_project/freedomtoons_aws/index.html",
+				"/home/froggie92/current_project/freedomtoons_aws/src/leftnav/view/leftnav.html",
+				"/home/froggie92/current_project/freedomtoons_aws/src/toons/Toons.js"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/froggie92/project_current/blog_cms/technomad_jekyll"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 172.0
+			},
+			"output.exec":
+			{
+				"height": 150.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,19,13,979,1061,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 231.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 212,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/froggie92/websites/technomad/jekyll/_config.sublime-workspace",
+			"/home/froggie92/lulus/readme.sublime-workspace"
+		]
+	}
+}

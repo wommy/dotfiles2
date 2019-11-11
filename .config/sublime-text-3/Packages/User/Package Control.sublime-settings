@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"EJS 2",
+		"Emmet",
+		"Liquid",
+		"Package Control",
+		"Pug",
+		"Terminus",
+		"TOML"
+	]
+}
