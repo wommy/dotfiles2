@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/froggie92/project_current/_shelf/dotfiles'
-let g:netrw_dirhist_2='/home/froggie92'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/froggie92/project_current/sirena/src/11ty'
+let g:netrw_dirhist_2='/home/froggie92/project_current/sirena'
+let g:netrw_dirhist_3='/home/froggie92'
