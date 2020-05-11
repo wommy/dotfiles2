@@ -1,17 +1,21 @@
 # Set up the prompt
 
-autoload -Uz promptinit
+autoload -Uz promptinit vcs_info
+
+precmd_vcs_info() { vcs_info }
+precmd_functions+=( precmd_vcs_info )
+setopt prompt_subst
+
 promptinit
-prompt adam1
+PS1="%~ %F{red}\$vcs_info_msg_0_%f "
+RPS1=""
+zstyle ':vcs_info:git:*' formats '%b'
 
 setopt histignorealldups sharehistory
 
 # Use emacs keybindings even if our EDITOR is set to vi
-bindkey -e
-
-# CTRL <- & ->
-bindkey '[1;5D' backward-word
-bindkey '[1;5C' forward-word
+# bindkey -e
+bindkey -v
 
 # Keep 1000 lines of history within the shell and save it to ~/.zsh_history:
 HISTSIZE=1000
@@ -40,6 +44,23 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
-# alias for browser-sync
+#
+##### ALIASES
+# 
+
+# browser-sync
 alias bsstart="sudo browser-sync start -s --host 0.0.0.0 --no-open"
 
+# todo.txt
+alias t="sudo todo.sh"
+
+# ls: dir first, colors
+alias ls="ls --group-directories-first --color=auto -a"
+
+# rd stuffs
+alias rddate="echo $(date) >> ~/rd/$(date +'%m-%d').md"
+alias rdsbj='echo $1 >> ~/rd/$(date +"%m-%d").md'
+alias rdnew="rddate; rdsbj $1"
+
+# pushit
+alias pushit="git add .; git commit -m 'pushit'; git push"
